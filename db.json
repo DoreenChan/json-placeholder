@@ -25,8 +25,8 @@
     ],
     "Pagination": {
         "Total": 2,
-        "Current": 1,
-        "Prev": false,
-        "Next": true
+        "Current": 2,
+        "Prev": true,
+        "Next": false
     }
 }
