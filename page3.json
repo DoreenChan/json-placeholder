@@ -1,0 +1,32 @@
+{
+    "Items": [
+        {
+            "Item": null,
+            "Title": "Lorem Ipsum Dolor Sit Amet Roadshow",
+            "Datetime": "01 January - 05 January 2019, 9am - 6pm daily",
+            "Image": "/-/media/placeholder/760x500.ashx?h=500&w=760&hash=FA32E0CDDA1A9DD3902F11B64EEE1A2377DA4495",
+            "Venue": "Lorem Ipsum Town Centre",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. Donec imperdiet cursus odio, semper porttitor arcu consequat non. Phasellus rutrum sapien dui, in ornare ipsum ullamcorper tempor. Donec suscipit odio scelerisque ipsum eleifend pulvinar.",
+            "Location": null,
+            "StartDate": "/Date(1548950400000)/",
+            "EndDate": "/Date(1559318400000)/"
+        },
+        {
+            "Item": null,
+            "Title": "Lorem Ipsum Dolor Sit Amet Roadshow",
+            "Datetime": "01 January - 05 January 2019, 9am - 6pm daily",
+            "Image": "",
+            "Venue": "Lorem Ipsum Town Centre",
+            "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. Donec imperdiet cursus odio, semper porttitor arcu consequat non. Phasellus rutrum sapien dui, in ornare ipsum ullamcorper tempor. Donec suscipit odio scelerisque ipsum eleifend pulvinar.",
+            "Location": null,
+            "StartDate": "/Date(1548950400000)/",
+            "EndDate": "/Date(1559318400000)/"
+        }
+    ],
+    "Pagination": {
+        "Total": 3,
+        "Current": 3,
+        "Prev": true,
+        "Next": false
+    }
+}
