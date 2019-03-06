@@ -1,98 +1,222 @@
 {
     "page1": {
-		"Items": [
-			{
-				"Item": null,
-				"Title": "Lorem Ipsum Dolor Sit Amet Roadshow",
-				"Datetime": "01 January - 05 January 2019, 9am - 6pm daily",
-				"Image": "/-/media/placeholder/760x500.ashx?h=500&w=760&hash=FA32E0CDDA1A9DD3902F11B64EEE1A2377DA4495",
-				"Venue": "Lorem Ipsum Town Centre",
-				"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. Donec imperdiet cursus odio, semper porttitor arcu consequat non. Phasellus rutrum sapien dui, in ornare ipsum ullamcorper tempor. Donec suscipit odio scelerisque ipsum eleifend pulvinar.",
-				"Location": null,
-				"StartDate": "/Date(1548950400000)/",
-				"EndDate": "/Date(1559318400000)/"
+			"Items": {
+				"Items": [
+					{
+						"Title": "This is content story",
+						"Style": "bg-red",
+						"Thumbnail": "",
+						"Description": "Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur",
+						"Type": {
+							"Guid": "4243d782-9cf9-4230-98b4-b0e93fefd2fa",
+							"IsGlobalNullId": false,
+							"IsNull": false
+						},
+						"Url": "/en/stories/content-story",
+						"Category": {
+							"Guid": "7589a83b-005b-4733-95f3-0632e783e01b",
+							"IsGlobalNullId": false,
+							"IsNull": false
+						}
+					},
+					{
+						"Title": "Image Story",
+						"Style": "bg-img",
+						"Thumbnail": "/-/media/project/merdeka/video-simple-1.jpg?h=525&w=994&hash=92C5207C46554F1D224B50D9D456EAE828C53E81",
+						"Description": "Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur",
+						"Type": {
+							"Guid": "90dfe0d7-f958-40d0-8a18-edede34b3b8c",
+							"IsGlobalNullId": false,
+							"IsNull": false
+						},
+						"Url": "http://local.merdekageneration.sg/-/media/project/merdeka/video-simple-1.jpg",
+						"Category": {
+							"Guid": "b8f9a6d2-7da3-4f13-82b8-a396aec575c4",
+							"IsGlobalNullId": false,
+							"IsNull": false
+						}
+					},
+					{
+						"Title": "Video Story",
+						"Style": "bg-img",
+						"Thumbnail": "/-/media/project/merdeka/masthead.png?h=686&w=1428&hash=3B2E85B048A0AC3CE410D900508922DF90C726E9",
+						"Description": "Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur",
+						"Type": {
+							"Guid": "f16c30e3-3e9a-4585-8ef1-84bbd0a96e65",
+							"IsGlobalNullId": false,
+							"IsNull": false
+						},
+						"Url": "https://youtu.be/l1xYFjUUdvw",
+						"Category": {
+							"Guid": "0fecee4c-c126-46a0-962c-4c6058adb3c8",
+							"IsGlobalNullId": false,
+							"IsNull": false
+						}
+					}
+				],
+				"Pagination": {
+					"Total": 3,
+					"Current": 1,
+					"Prev": false,
+					"Next": true
+				}
 			},
-			{
-				"Item": null,
-				"Title": "Lorem Ipsum Dolor Sit Amet Roadshow",
-				"Datetime": "01 January - 05 January 2019, 9am - 6pm daily",
-				"Image": "",
-				"Venue": "Lorem Ipsum Town Centre",
-				"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. Donec imperdiet cursus odio, semper porttitor arcu consequat non. Phasellus rutrum sapien dui, in ornare ipsum ullamcorper tempor. Donec suscipit odio scelerisque ipsum eleifend pulvinar.",
-				"Location": null,
-				"StartDate": "/Date(1548950400000)/",
-				"EndDate": "/Date(1559318400000)/"
+			"Categories": null,
+			"ActiveCategory": {
+				"CategoryID": {
+					"Guid": "0fecee4c-c126-46a0-962c-4c6058adb3c8",
+					"IsGlobalNullId": false,
+					"IsNull": false
+				},
+				"CategoryName": "Short Films",
+				"Summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 			}
-		],
-		"Pagination": {
-			"Total": 3,
-			"Current": 1,
-			"Prev": false,
-			"Next": true
-		}
 	},
 	 "page2": {
-		"Items": [
-			{
-				"Item": null,
-				"Title": "Lorem Ipsum Dolor Sit Amet Roadshow",
-				"Datetime": "01 January - 05 January 2019, 9am - 6pm daily",
-				"Image": "/-/media/placeholder/760x500.ashx?h=500&w=760&hash=FA32E0CDDA1A9DD3902F11B64EEE1A2377DA4495",
-				"Venue": "Lorem Ipsum Town Centre",
-				"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. Donec imperdiet cursus odio, semper porttitor arcu consequat non. Phasellus rutrum sapien dui, in ornare ipsum ullamcorper tempor. Donec suscipit odio scelerisque ipsum eleifend pulvinar.",
-				"Location": null,
-				"StartDate": "/Date(1548950400000)/",
-				"EndDate": "/Date(1559318400000)/"
+		
+		"Items": {
+				"Items": [
+					{
+						"Title": "This is content story",
+						"Style": "bg-red",
+						"Thumbnail": "",
+						"Description": "Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur",
+						"Type": {
+							"Guid": "4243d782-9cf9-4230-98b4-b0e93fefd2fa",
+							"IsGlobalNullId": false,
+							"IsNull": false
+						},
+						"Url": "/en/stories/content-story",
+						"Category": {
+							"Guid": "7589a83b-005b-4733-95f3-0632e783e01b",
+							"IsGlobalNullId": false,
+							"IsNull": false
+						}
+					},
+					{
+						"Title": "Image Story",
+						"Style": "bg-img",
+						"Thumbnail": "/-/media/project/merdeka/video-simple-1.jpg?h=525&w=994&hash=92C5207C46554F1D224B50D9D456EAE828C53E81",
+						"Description": "Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur",
+						"Type": {
+							"Guid": "90dfe0d7-f958-40d0-8a18-edede34b3b8c",
+							"IsGlobalNullId": false,
+							"IsNull": false
+						},
+						"Url": "http://local.merdekageneration.sg/-/media/project/merdeka/video-simple-1.jpg",
+						"Category": {
+							"Guid": "b8f9a6d2-7da3-4f13-82b8-a396aec575c4",
+							"IsGlobalNullId": false,
+							"IsNull": false
+						}
+					},
+					{
+						"Title": "Video Story",
+						"Style": "bg-img",
+						"Thumbnail": "/-/media/project/merdeka/masthead.png?h=686&w=1428&hash=3B2E85B048A0AC3CE410D900508922DF90C726E9",
+						"Description": "Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur",
+						"Type": {
+							"Guid": "f16c30e3-3e9a-4585-8ef1-84bbd0a96e65",
+							"IsGlobalNullId": false,
+							"IsNull": false
+						},
+						"Url": "https://youtu.be/l1xYFjUUdvw",
+						"Category": {
+							"Guid": "0fecee4c-c126-46a0-962c-4c6058adb3c8",
+							"IsGlobalNullId": false,
+							"IsNull": false
+						}
+					}
+				],
+				"Pagination": {
+					"Total": 3,
+					"Current": 2,
+					"Prev": true,
+					"Next": true
+				}
 			},
-			{
-				"Item": null,
-				"Title": "Lorem Ipsum Dolor Sit Amet Roadshow",
-				"Datetime": "01 January - 05 January 2019, 9am - 6pm daily",
-				"Image": "",
-				"Venue": "Lorem Ipsum Town Centre",
-				"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. Donec imperdiet cursus odio, semper porttitor arcu consequat non. Phasellus rutrum sapien dui, in ornare ipsum ullamcorper tempor. Donec suscipit odio scelerisque ipsum eleifend pulvinar.",
-				"Location": null,
-				"StartDate": "/Date(1548950400000)/",
-				"EndDate": "/Date(1559318400000)/"
+			"Categories": null,
+			"ActiveCategory": {
+				"CategoryID": {
+					"Guid": "0fecee4c-c126-46a0-962c-4c6058adb3c8",
+					"IsGlobalNullId": false,
+					"IsNull": false
+				},
+				"CategoryName": "Short Films",
+				"Summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 			}
-		],
-		"Pagination": {
-			"Total": 3,
-			"Current": 2,
-			"Prev": true,
-			"Next": true
-		}
 	},
 	 "page3": {
-		"Items": [
-			{
-				"Item": null,
-				"Title": "Lorem Ipsum Dolor Sit Amet Roadshow",
-				"Datetime": "01 January - 05 January 2019, 9am - 6pm daily",
-				"Image": "/-/media/placeholder/760x500.ashx?h=500&w=760&hash=FA32E0CDDA1A9DD3902F11B64EEE1A2377DA4495",
-				"Venue": "Lorem Ipsum Town Centre",
-				"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. Donec imperdiet cursus odio, semper porttitor arcu consequat non. Phasellus rutrum sapien dui, in ornare ipsum ullamcorper tempor. Donec suscipit odio scelerisque ipsum eleifend pulvinar.",
-				"Location": null,
-				"StartDate": "/Date(1548950400000)/",
-				"EndDate": "/Date(1559318400000)/"
+		"Items": {
+				"Items": [
+					{
+						"Title": "This is content story",
+						"Style": "bg-red",
+						"Thumbnail": "",
+						"Description": "Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur",
+						"Type": {
+							"Guid": "4243d782-9cf9-4230-98b4-b0e93fefd2fa",
+							"IsGlobalNullId": false,
+							"IsNull": false
+						},
+						"Url": "/en/stories/content-story",
+						"Category": {
+							"Guid": "7589a83b-005b-4733-95f3-0632e783e01b",
+							"IsGlobalNullId": false,
+							"IsNull": false
+						}
+					},
+					{
+						"Title": "Image Story",
+						"Style": "bg-img",
+						"Thumbnail": "/-/media/project/merdeka/video-simple-1.jpg?h=525&w=994&hash=92C5207C46554F1D224B50D9D456EAE828C53E81",
+						"Description": "Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur",
+						"Type": {
+							"Guid": "90dfe0d7-f958-40d0-8a18-edede34b3b8c",
+							"IsGlobalNullId": false,
+							"IsNull": false
+						},
+						"Url": "http://local.merdekageneration.sg/-/media/project/merdeka/video-simple-1.jpg",
+						"Category": {
+							"Guid": "b8f9a6d2-7da3-4f13-82b8-a396aec575c4",
+							"IsGlobalNullId": false,
+							"IsNull": false
+						}
+					},
+					{
+						"Title": "Video Story",
+						"Style": "bg-img",
+						"Thumbnail": "/-/media/project/merdeka/masthead.png?h=686&w=1428&hash=3B2E85B048A0AC3CE410D900508922DF90C726E9",
+						"Description": "Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur",
+						"Type": {
+							"Guid": "f16c30e3-3e9a-4585-8ef1-84bbd0a96e65",
+							"IsGlobalNullId": false,
+							"IsNull": false
+						},
+						"Url": "https://youtu.be/l1xYFjUUdvw",
+						"Category": {
+							"Guid": "0fecee4c-c126-46a0-962c-4c6058adb3c8",
+							"IsGlobalNullId": false,
+							"IsNull": false
+						}
+					}
+				],
+				"Pagination": {
+					"Total": 3,
+					"Current": 3,
+					"Prev": true,
+					"Next": false
+				}
 			},
-			{
-				"Item": null,
-				"Title": "Lorem Ipsum Dolor Sit Amet Roadshow",
-				"Datetime": "01 January - 05 January 2019, 9am - 6pm daily",
-				"Image": "",
-				"Venue": "Lorem Ipsum Town Centre",
-				"Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. Donec imperdiet cursus odio, semper porttitor arcu consequat non. Phasellus rutrum sapien dui, in ornare ipsum ullamcorper tempor. Donec suscipit odio scelerisque ipsum eleifend pulvinar.",
-				"Location": null,
-				"StartDate": "/Date(1548950400000)/",
-				"EndDate": "/Date(1559318400000)/"
+			"Categories": null,
+			"ActiveCategory": {
+				"CategoryID": {
+					"Guid": "0fecee4c-c126-46a0-962c-4c6058adb3c8",
+					"IsGlobalNullId": false,
+					"IsNull": false
+				},
+				"CategoryName": "Short Films",
+				"Summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
 			}
-		],
-		"Pagination": {
-			"Total": 3,
-			"Current": 3,
-			"Prev": true,
-			"Next": false
-		}
 	}
 }
