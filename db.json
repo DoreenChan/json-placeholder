@@ -1,19 +1,4 @@
 {
-    "Results": [
-        {
-            "Title": "Home",
-            "Url": "/en",
-            "Description": ""
-        },
-        {
-            "Title": "List of Components",
-            "Url": "/en/components",
-            "Description": ""
-        }
-    ],
-    "Query": "benefit\n",
-    "TotalResults": 2,
-    "ResultsOnPage": 10,
     "Pagination": {
         "Total": 1,
         "Current": 1,
