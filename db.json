@@ -1,4 +1,16 @@
 {
+    "Results": [
+        {
+            "Title": "Home",
+            "Url": "/en",
+            "Description": ""
+        },
+        {
+            "Title": "List of Components",
+            "Url": "/en/components",
+            "Description": ""
+        }
+    ],
     "Pagination": {
         "Total": 1,
         "Current": 1,
