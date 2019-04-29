@@ -1,7 +1,7 @@
 {
    "results": [
    {
-    "AcStockID": "KM083-PP-XL",
+    "AcStockID": "KM083-PP-XL-TEST",
         "AcStockUOMID": "PCS",
         "StockDescription1": "KM083 PURPLE XL",
         "StockDescription2": "",
@@ -11,7 +11,7 @@
         "StockPrice3": 119.9,
         "StockPrice4": 0,
         "StockPrice5": 50,
-        "StockBarcode": "3007411",
+        "StockBarcode": "3007411TEST",
         "Brand": "NA",
         "AcStockCategoryID": "KM",
         "Color": "PURPLE",
