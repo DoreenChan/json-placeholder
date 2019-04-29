@@ -1,5 +1,7 @@
 {
-        "AcStockID": "KM083-PP-XL",
+   "results": [
+   {
+    "AcStockID": "KM083-PP-XL",
         "AcStockUOMID": "PCS",
         "StockDescription1": "KM083 PURPLE XL",
         "StockDescription2": "",
@@ -23,4 +25,6 @@
         "AcTaxIDSupplySST": "SV0",
         "StockArticleNo": "",
         "Store": null
-	}  
+   }
+   ]
+}  
