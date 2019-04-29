@@ -1,20 +1,27 @@
-{
-    "Results": [
-        {
-            "Title": "Home",
-            "Url": "/en",
-            "Description": ""
-        },
-        {
-            "Title": "List of Components",
-            "Url": "/en/components",
-            "Description": ""
-        }
-    ],
-    "Pagination": {
-        "Total": 1,
-        "Current": 1,
-        "Prev": false,
-        "Next": false
+ [  {
+        "AcStockID": "KM083-PP-XL",
+        "AcStockUOMID": "PCS",
+        "StockDescription1": "KM083 PURPLE XL",
+        "StockDescription2": "",
+        "StockUOMRate": 1,
+        "StockPrice1": 129,
+        "StockPrice2": 60,
+        "StockPrice3": 119.9,
+        "StockPrice4": 0,
+        "StockPrice5": 50,
+        "StockBarcode": "3007411",
+        "Brand": "NA",
+        "AcStockCategoryID": "KM",
+        "Color": "PURPLE",
+        "Size": "XL",
+        "StockNotes": "",
+        "EditDate": "2019-04-17T14:52:21.040Z",
+        "StockDimensionHeight": 0,
+        "StockDimensionWidth": 0,
+        "StockDimensionLength": 0,
+        "StockWeight": 0,
+        "AcTaxIDSupplySST": "SV0",
+        "StockArticleNo": "",
+        "Store": null
     }
-}
+]
