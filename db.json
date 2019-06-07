@@ -22,14 +22,14 @@
 					{
 						"Title": "Image Story",
 						"Style": "bg-img",
-						"Thumbnail": "/-/media/project/merdeka/video-simple-1.jpg?h=525&w=994&hash=92C5207C46554F1D224B50D9D456EAE828C53E81",
+						"Thumbnail": "https://via.placeholder.com/150",
 						"Description": "Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur",
 						"Type": {
 							"Guid": "90dfe0d7-f958-40d0-8a18-edede34b3b8c",
 							"IsGlobalNullId": false,
 							"IsNull": false
 						},
-						"Url": "http://local.merdekageneration.sg/-/media/project/merdeka/video-simple-1.jpg",
+						"Url": "https://via.placeholder.com/150",
 						"Category": {
 							"Guid": "b8f9a6d2-7da3-4f13-82b8-a396aec575c4",
 							"IsGlobalNullId": false,
@@ -39,7 +39,7 @@
 					{
 						"Title": "Video Story",
 						"Style": "bg-img",
-						"Thumbnail": "/-/media/project/merdeka/masthead.png?h=686&w=1428&hash=3B2E85B048A0AC3CE410D900508922DF90C726E9",
+						"Thumbnail": "https://via.placeholder.com/150",
 						"Description": "Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur",
 						"Type": {
 							"Guid": "f16c30e3-3e9a-4585-8ef1-84bbd0a96e65",
@@ -96,14 +96,14 @@
 					{
 						"Title": "Image Story",
 						"Style": "bg-img",
-						"Thumbnail": "/-/media/project/merdeka/video-simple-1.jpg?h=525&w=994&hash=92C5207C46554F1D224B50D9D456EAE828C53E81",
+						"Thumbnail": "https://via.placeholder.com/150",
 						"Description": "Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur",
 						"Type": {
 							"Guid": "90dfe0d7-f958-40d0-8a18-edede34b3b8c",
 							"IsGlobalNullId": false,
 							"IsNull": false
 						},
-						"Url": "http://local.merdekageneration.sg/-/media/project/merdeka/video-simple-1.jpg",
+						"Url": "https://via.placeholder.com/150",
 						"Category": {
 							"Guid": "b8f9a6d2-7da3-4f13-82b8-a396aec575c4",
 							"IsGlobalNullId": false,
@@ -113,7 +113,7 @@
 					{
 						"Title": "Video Story",
 						"Style": "bg-img",
-						"Thumbnail": "/-/media/project/merdeka/masthead.png?h=686&w=1428&hash=3B2E85B048A0AC3CE410D900508922DF90C726E9",
+						"Thumbnail": "https://via.placeholder.com/150",
 						"Description": "Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur",
 						"Type": {
 							"Guid": "f16c30e3-3e9a-4585-8ef1-84bbd0a96e65",
@@ -176,7 +176,7 @@
 							"IsGlobalNullId": false,
 							"IsNull": false
 						},
-						"Url": "http://local.merdekageneration.sg/-/media/project/merdeka/video-simple-1.jpg",
+						"Url": "https://via.placeholder.com/150",
 						"Category": {
 							"Guid": "b8f9a6d2-7da3-4f13-82b8-a396aec575c4",
 							"IsGlobalNullId": false,
